@@ -1,0 +1,773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {   
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Tǔfān",
+        "NAME_CH": "吐蕃",
+        "NAME_FT": "吐蕃",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25020",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 86.82618,
+        "Y_COORD": 31.41201,
+        "AREA": 1438410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "",
+        "NAME_CH": "",
+        "NAME_FT": "",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25021",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 133.02625,
+        "Y_COORD": 53.94088,
+        "AREA": 28304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Liángzhōu",
+        "NAME_CH": "凉州",
+        "NAME_FT": "凉州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25022",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 83.07536,
+        "Y_COORD": 42.1138,
+        "AREA": 2510900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Liáodōngjùn",
+        "NAME_CH": "辽东郡",
+        "NAME_FT": "遼東郡",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25023",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 122.65564,
+        "Y_COORD": 40.84202,
+        "AREA": 102799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Diānguó",
+        "NAME_CH": "滇国",
+        "NAME_FT": "滇國",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25024",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 101.77803,
+        "Y_COORD": 25.17224,
+        "AREA": 417798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Sùshèn",
+        "NAME_CH": "肃慎",
+        "NAME_FT": "肅慎",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25025",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 125.29645,
+        "Y_COORD": 50.80618,
+        "AREA": 924516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Liáodōngjùn",
+        "NAME_CH": "辽东郡",
+        "NAME_FT": "遼東郡",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25026",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 134.44638,
+        "Y_COORD": 47.98264,
+        "AREA": 997904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Xianbei",
+        "NAME_CH": "鲜卑",
+        "NAME_FT": "鮮卑",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25027",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 101.28736,
+        "Y_COORD": 47.60334,
+        "AREA": 1983640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Liángzhōu",
+        "NAME_CH": "凉州",
+        "NAME_FT": "涼州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25028",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 95.97999,
+        "Y_COORD": 35.26864,
+        "AREA": 645031
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Qínzhōu",
+        "NAME_CH": "秦州",
+        "NAME_FT": "秦州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25029",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 109.58463,
+        "Y_COORD": 35.54087,
+        "AREA": 190767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Yùzhōu",
+        "NAME_CH": "豫州",
+        "NAME_FT": "豫州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25030",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 117.25979,
+        "Y_COORD": 31.55435,
+        "AREA": 144893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Jīngzhōu",
+        "NAME_CH": "荆州",
+        "NAME_FT": "荆州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25031",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 112.26328,
+        "Y_COORD": 31.15641,
+        "AREA": 183761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Xiāngdōngjùn",
+        "NAME_CH": "湘东郡",
+        "NAME_FT": "湘東郡",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25032",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 111.51873,
+        "Y_COORD": 27.38116,
+        "AREA": 212574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Guǎngzhōu",
+        "NAME_CH": "广州",
+        "NAME_FT": "廣州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25033",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 112.33343,
+        "Y_COORD": 21.8406,
+        "AREA": 226057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Mǐnzhōngjùn",
+        "NAME_CH": "闽中郡",
+        "NAME_FT": "閩中郡",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25034",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 118.14541,
+        "Y_COORD": 25.94086,
+        "AREA": 159806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Wújùn",
+        "NAME_CH": "吴郡",
+        "NAME_FT": "吳郡",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25035",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 120.23102,
+        "Y_COORD": 29.19472,
+        "AREA": 103867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Luòyáng、Yōuzhōu、Jìzhōu",
+        "NAME_CH": "洛阳、幽州、冀州",
+        "NAME_FT": "洛陽、幽州、冀州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25036",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 117.64316,
+        "Y_COORD": 39.89394,
+        "AREA": 355394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Yùzhōu",
+        "NAME_CH": "豫州",
+        "NAME_FT": "豫州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25037",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 113.44322,
+        "Y_COORD": 34.08063,
+        "AREA": 167100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Xianbei",
+        "NAME_CH": "鲜卑",
+        "NAME_FT": "鮮卑",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25038",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 111.24356,
+        "Y_COORD": 42.39682,
+        "AREA": 949787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Bìngzhōu、Yōngzhōu",
+        "NAME_CH": "并州、雍州",
+        "NAME_FT": "並州、雍州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25039",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 112.24277,
+        "Y_COORD": 38.07427,
+        "AREA": 183510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Liángzhōu",
+        "NAME_CH": "凉州",
+        "NAME_FT": "涼州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25040",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 102.33739,
+        "Y_COORD": 37.65251,
+        "AREA": 540583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Yìzhōu",
+        "NAME_CH": "益州",
+        "NAME_FT": "益州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25041",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 103.78422,
+        "Y_COORD": 30.19001,
+        "AREA": 621431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Yìzhōu",
+        "NAME_CH": "益州",
+        "NAME_FT": "益州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25042",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 106.5526,
+        "Y_COORD": 26.92137,
+        "AREA": 176166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Huìjījùn",
+        "NAME_CH": "会稽郡",
+        "NAME_FT": "会稽郡",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25043",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 116.02689,
+        "Y_COORD": 27.28384,
+        "AREA": 165263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Guìlín",
+        "NAME_CH": "桂林",
+        "NAME_FT": "桂林",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25044",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 108.50459,
+        "Y_COORD": 23.9907,
+        "AREA": 222880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Qīngzhōu",
+        "NAME_CH": "青州",
+        "NAME_FT": "青州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25045",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 118.88338,
+        "Y_COORD": 36.3613,
+        "AREA": 152972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Wújùn",
+        "NAME_CH": "吴郡",
+        "NAME_FT": "吴郡",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25046",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 119.49252,
+        "Y_COORD": 32.88607,
+        "AREA": 105441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Wanlichangsha",
+        "NAME_CH": "万里长沙",
+        "NAME_FT": "萬里長沙",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25047",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 111.59792,
+        "Y_COORD": 16.23403,
+        "AREA": 412.376
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Qianlishitang",
+        "NAME_CH": "千里石塘",
+        "NAME_FT": "千里石塘",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25048",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 113.34569,
+        "Y_COORD": 8.21353,
+        "AREA": 820.808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Zengmu'ansha",
+        "NAME_CH": "曾母暗沙",
+        "NAME_FT": "曾母暗沙",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25049",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 112.27887,
+        "Y_COORD": 3.97088,
+        "AREA": 11.6805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Dongsha",
+        "NAME_CH": "东沙",
+        "NAME_FT": "東沙",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25050",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 116.90872,
+        "Y_COORD": 20.67474,
+        "AREA": 69.6332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Zhongsha",
+        "NAME_CH": "中沙",
+        "NAME_FT": "中沙",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25051",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 117.79446,
+        "Y_COORD": 15.1731,
+        "AREA": 48.3204
+      }
+    }
+  ]
+}

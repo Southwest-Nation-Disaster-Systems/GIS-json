@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>OpenLayers Map</title>
+    <link rel="stylesheet" href="./v8.1.0-package/ol.css" type="text/css" />
+    <script src="./v8.1.0-package/dist/ol.js"></script>
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map" class="map"></div>
+    <script>
+        var apiKey =
+            "AqbxydOPR1O5cKxtqfQzkTIrYLRh6cFEf8yh1Rh3DtCxgYdcaXTpR5G1KFBjixp5";
+        var map = new ol.Map({
+            target: "map",
+            layers: [
+                new ol.layer.Tile({
+                    source: new ol.source.BingMaps({
+                        key: apiKey,
+                        imagerySet: "Aerial", // 使用卫星图层
+                    }),
+                }),
+            ],
+            view: new ol.View({
+                center: ol.proj.fromLonLat([110.195397, 38.86166]),
+                zoom: 4.6, // 设置初始缩放级别
+            }),
+        });
+
+        var vectorSource = new ol.source.Vector();
+        var vectorLayer = new ol.layer.Vector({
+            source: vectorSource,
+            style: function (feature, resolution) {
+                var text = feature.get("NAME_CH"); // 假设地名属性在JSON数据的"NAME_CH"字段中
+                var textStyle = new ol.style.Text({
+                    text: text,
+                    fill: new ol.style.Fill({
+                        color: "white", // 设置地名颜色为白色
+                    }),
+                    stroke: new ol.style.Stroke({
+                        color: "black", // 添加黑色描边
+                        width: 2,
+                    }),
+                });
+                return new ol.style.Style({
+                    text: textStyle,
+                    stroke: new ol.style.Stroke({
+                        color: "rgb(177, 197, 180)",
+                        width: 2,
+                    }),
+                    fill: new ol.style.Fill({
+                        color: 'rgba(0, 0, 255, 0.1)'
+                    })
+                });
+            },
+        });
+
+
+        map.addLayer(vectorLayer);
+
+        // JSON 数据文件数组
+        var jsonFiles = [
+            "https://raw.githubusercontent.com/Southwest-Nation-Disaster-Systems/GIS-json/main/zhanguo/zhanguo.json",
+            "https://raw.githubusercontent.com/Southwest-Nation-Disaster-Systems/GIS-json/main/zhanguo/zhanguo_5.json",
+        ];
+        // 根据当前缩放级别设置显示内容
+        function updateData() {
+            var currentZoom = map.getView().getZoom();
+            var zoomLevel = Math.floor(currentZoom);
+            var vectorSource = vectorLayer.getSource();
+            vectorSource.clear();
+
+            if (zoomLevel >= 4 && zoomLevel < jsonFiles.length + 4) {
+                var jsonFileIndex = zoomLevel - 4;
+                fetch(jsonFiles[jsonFileIndex])
+                    .then((response) => response.json())
+                    .then((data) => {
+                        vectorSource.addFeatures(
+                            new ol.format.GeoJSON().readFeatures(data, {
+                                featureProjection: "EPSG:3857",
+                            })
+                        );
+                    });
+            } else if (zoomLevel >= jsonFiles.length + 2) {
+                // 在最后一个 JSON 文件后保持显示
+                var jsonFileIndex = jsonFiles.length - 1;
+                fetch(jsonFiles[jsonFileIndex])
+                    .then((response) => response.json())
+                    .then((data) => {
+                        vectorSource.addFeatures(
+                            new ol.format.GeoJSON().readFeatures(data, {
+                                featureProjection: "EPSG:3857",
+                            })
+                        );
+                    });
+            }
+        }
+
+        map.on("moveend", updateData);
+        updateData();
+
+    </script>
+</body>
+
+</html>

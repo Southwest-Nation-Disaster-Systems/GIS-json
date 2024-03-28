@@ -1,0 +1,773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Tubodengbu",
+        "NAME_CH": "吐蕃等部",
+        "NAME_FT": "吐蕃等部",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25020",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 86.82618,
+        "Y_COORD": 31.41201,
+        "AREA": 1438410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Nibuchu",
+        "NAME_CH": "中俄尼布楚条约待议地",
+        "NAME_FT": "中俄尼部署條約待議地",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25021",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 133.02625,
+        "Y_COORD": 53.94088,
+        "AREA": 28304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Xiliao",
+        "NAME_CH": "西辽",
+        "NAME_FT": "西遼",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25022",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 83.07536,
+        "Y_COORD": 42.1138,
+        "AREA": 2510900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Dongjinglu",
+        "NAME_CH": "东京路",
+        "NAME_FT": "東京路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25023",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 122.65564,
+        "Y_COORD": 40.84202,
+        "AREA": 102799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Dali",
+        "NAME_CH": "大理",
+        "NAME_FT": "大理",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25024",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 101.77803,
+        "Y_COORD": 25.17224,
+        "AREA": 417798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Shangjinglu",
+        "NAME_CH": "上京路",
+        "NAME_FT": "上京路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25025",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 125.29645,
+        "Y_COORD": 50.80618,
+        "AREA": 924516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Shangjinglu",
+        "NAME_CH": "上京路",
+        "NAME_FT": "上京路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25026",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 134.44638,
+        "Y_COORD": 47.98264,
+        "AREA": 997904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Keliebu",
+        "NAME_CH": "克烈部",
+        "NAME_FT": "克烈部",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25027",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 101.28736,
+        "Y_COORD": 47.60334,
+        "AREA": 1983640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Tubodengbu",
+        "NAME_CH": "吐蕃等部",
+        "NAME_FT": "吐蕃等部",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25028",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 95.97999,
+        "Y_COORD": 35.26864,
+        "AREA": 645031
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Yongxingjunlu",
+        "NAME_CH": "永兴军路",
+        "NAME_FT": "永興軍路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25029",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 109.58463,
+        "Y_COORD": 35.54087,
+        "AREA": 190767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Huainanxilu",
+        "NAME_CH": "淮南西路",
+        "NAME_FT": "淮南西路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25030",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 117.25979,
+        "Y_COORD": 31.55435,
+        "AREA": 144893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Jingxinanlu",
+        "NAME_CH": "京西南路",
+        "NAME_FT": "京西南路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25031",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 112.26328,
+        "Y_COORD": 31.15641,
+        "AREA": 183761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Jinghunanlu",
+        "NAME_CH": "荆湖南路",
+        "NAME_FT": "荆湖南路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25032",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 111.51873,
+        "Y_COORD": 27.38116,
+        "AREA": 212574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Guangnanxilu,Guangnandonglu",
+        "NAME_CH": "广南西路,广南东路",
+        "NAME_FT": "廣南西路,廣南東路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25033",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 112.33343,
+        "Y_COORD": 21.8406,
+        "AREA": 226057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Fujianlu",
+        "NAME_CH": "福建路",
+        "NAME_FT": "福建路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25034",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 118.14541,
+        "Y_COORD": 25.94086,
+        "AREA": 159806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Yuzhedonglu",
+        "NAME_CH": "雨浙东路",
+        "NAME_FT": "雨浙東路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25035",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 120.23102,
+        "Y_COORD": 29.19472,
+        "AREA": 103867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Zhongjingdao",
+        "NAME_CH": "中京道",
+        "NAME_FT": "中京道",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25036",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 117.64316,
+        "Y_COORD": 39.89394,
+        "AREA": 355394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Jingdongxilu",
+        "NAME_CH": "京东西路",
+        "NAME_FT": "京東西路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25037",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 113.44322,
+        "Y_COORD": 34.08063,
+        "AREA": 167100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Xixia",
+        "NAME_CH": "西夏",
+        "NAME_FT": "西夏",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25038",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 111.24356,
+        "Y_COORD": 42.39682,
+        "AREA": 949787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Xijingdao,Hedonglu",
+        "NAME_CH": "西京道,河东路",
+        "NAME_FT": "西京道,河東路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25039",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 112.24277,
+        "Y_COORD": 38.07427,
+        "AREA": 183510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Xiliao,Xixia",
+        "NAME_CH": "西辽,西夏",
+        "NAME_FT": "西遼,西夏",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25040",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 102.33739,
+        "Y_COORD": 37.65251,
+        "AREA": 540583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Chengdufulu,Dali,Tubozhubu",
+        "NAME_CH": "成都府路,大理,吐蕃诸部",
+        "NAME_FT": "成都府路,大理,吐蕃诸部",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25041",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 103.78422,
+        "Y_COORD": 30.19001,
+        "AREA": 621431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Dali,Guangnanxilu",
+        "NAME_CH": "大理,广南西路",
+        "NAME_FT": "大理,廣南西路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25042",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 106.5526,
+        "Y_COORD": 26.92137,
+        "AREA": 176166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Jiangnanxilu",
+        "NAME_CH": "江南西路",
+        "NAME_FT": "江南西路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25043",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 116.02689,
+        "Y_COORD": 27.28384,
+        "AREA": 165263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Guangnanxilu",
+        "NAME_CH": "广南西路",
+        "NAME_FT": "廣南西路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25044",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 108.50459,
+        "Y_COORD": 23.9907,
+        "AREA": 222880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Jingdongdonglu",
+        "NAME_CH": "京东东路",
+        "NAME_FT": "京東東路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25045",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 118.88338,
+        "Y_COORD": 36.3613,
+        "AREA": 152972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Huainandonglu",
+        "NAME_CH": "淮南东路",
+        "NAME_FT": "淮南東路",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25046",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2002/10/31",
+        "X_COORD": 119.49252,
+        "Y_COORD": 32.88607,
+        "AREA": 105441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Nanhaizhuzhou",
+        "NAME_CH": "南海诸州",
+        "NAME_FT": "南海諸州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25047",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 111.59792,
+        "Y_COORD": 16.23403,
+        "AREA": 412.376
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Nanhaizhuzhou",
+        "NAME_CH": "南海诸州",
+        "NAME_FT": "南海諸州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25048",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 113.34569,
+        "Y_COORD": 8.21353,
+        "AREA": 820.808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Nanhaizhuzhou",
+        "NAME_CH": "南海诸州",
+        "NAME_FT": "南海諸州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25049",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 112.27887,
+        "Y_COORD": 3.97088,
+        "AREA": 11.6805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME_PY": "Nanhaizhuzhou",
+        "NAME_CH": "南海诸州",
+        "NAME_FT": "南海諸州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25050",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 116.90872,
+        "Y_COORD": 20.67474,
+        "AREA": 69.6332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME_PY": "Nanhaizhuzhou",
+        "NAME_CH": "南海诸州",
+        "NAME_FT": "南海諸州",
+        "PRES_LOC": "",
+        "LEV_RANK": "1",
+        "NOTE_ID": 0,
+        "OBJ_TYPE": "POLYGON",
+        "SYS_ID": "25051",
+        "GEO_SRC": "",
+        "COMPILER": "",
+        "GEOCOMP": "满志敏",
+        "CHECKER": "邹逸麟",
+        "ENT_DATE": "2001/06/30",
+        "X_COORD": 117.79446,
+        "Y_COORD": 15.1731,
+        "AREA": 48.3204
+      }
+    }
+  ]
+}

@@ -46,8 +46,8 @@ map.addLayer(vectorLayer);
 
 // JSON 数据文件数组
 var jsonFiles = [
-            "https://raw.githubusercontent.com/Southwest-Nation-Disaster-Systems/GIS-json/main/chunqiu/chunqiu.json",
-            "https://raw.githubusercontent.com/Southwest-Nation-Disaster-Systems/GIS-json/main/chunqiu/chunqiu_5.json",
+            "https://raw.githubusercontent.com/Southwest-Nation-Disaster-Systems/GIS-json/main/chunqiu/Export_Output.json",
+            "https://raw.githubusercontent.com/Southwest-Nation-Disaster-Systems/GIS-json/main/chunqiu/Export_Output_5.json",
   // 添加更多 JSON 文件的 URL
 ];
 

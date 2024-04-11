@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>OpenLayers Map</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/element-plus/dist/index.css" />
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="https://unpkg.com/element-plus"></script>
+  <link rel="stylesheet/less" href="./element-ui_less.less">
+
+  <link rel="stylesheet" href="./v8.1.0-package/ol.css" type="text/css" />
+  <script src="./v8.1.0-package/dist/ol.js"></script>
+  <style>
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      position: relative;
+      /* Set the position of the body to relative */
+    }
+
+    #map {
+      height: 100%;
+      /* Adjust the height of the map */
+    }
+
+    .map-container {
+      position: relative;
+      height: 100%;
+    }
+
+    #app {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1001;
+    }
+
+    #switchMapButton {
+      position: absolute;
+      top: 100px;
+      left: 10px;
+      z-index: 1000;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="map-container">
+    <div id="app">
+      <el-button id='switchMapButton' ref="switchMapButton" type="primary" 
+      @click="switchMap"
+      v-loading.fullscreen.lock="fullscreenLoading"
+          :element-loading-spinner="svg" element-loading-svg-view-box="-10, -10, 50, 50"
+          element-loading-background="rgba(122, 122, 122, 0.8)">切换地图</el-button>
+    </div>
+    <div id="map" class="map"></div>
+  </div>
+  <script src="./js/donghan.js"></script>
+</body>
+
+</html>
